@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px 0px 0px 10px;
+}
+
+/* Styling table, table heading and table data */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+}
